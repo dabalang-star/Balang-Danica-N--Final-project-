@@ -22,11 +22,17 @@ The project aims to:
 
  ✨ Features of the System
       • Add new tasks
+
       • View all tasks
+     
       • Mark tasks as completed
+
       • Delete tasks
+
       • Save tasks automatically
+
       • Load saved tasks when the program starts
+
       • Handle invalid user input
 
 
@@ -47,22 +53,36 @@ The project aims to:
 
 Concept                          Description
 
-Classes and Objects       Used for Task and TaskManager
+Classes and Objects            Used for Task and TaskManager
 
-Encapsulation             Methods grouped inside classes
+Encapsulation                 Methods grouped inside classes
 
-Lists                     Store task objects
+Lists                          Store task objects
 
-Loops                     Used in menu display
+Loops                           Used in menu display
 
-Conditional Statements    Used for menu choices
+Conditional Statements          Used for menu choices
 
-Functions/Methods         Separate operations
+Functions/Methods               Separate operations
 
-File Handling             Save/load task data
+File Handling                    Save/load task data
 
-JSON                      Permanent data storage
+JSON                             Permanent data storage
 
-Exception Handling        Prevent program crashes
+Exception Handling                Prevent program crashes
+
+
+
+🔗📽️ VEDIO PRESENTATION 
+
+    YouTube Link:
+
+
+
+
+
+.🔗 👩‍💻 AUTHOR 
+
+    DANICA BALANG
 
 
