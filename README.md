@@ -31,3 +31,38 @@ The project aims to:
 
 
 
+🔗⚙️. INSTALLATION / SETUP 
+    1. Download or clone the repository.
+
+    2. Open the project folder in VS code
+
+    3. Open the terminal 
+
+    4. Run the application:
+
+
+
+
+ 🔗🧠Programming Concepts Used
+
+Concept                          Description
+
+Classes and Objects       Used for Task and TaskManager
+
+Encapsulation             Methods grouped inside classes
+
+Lists                     Store task objects
+
+Loops                     Used in menu display
+
+Conditional Statements    Used for menu choices
+
+Functions/Methods         Separate operations
+
+File Handling             Save/load task data
+
+JSON                      Permanent data storage
+
+Exception Handling        Prevent program crashes
+
+
