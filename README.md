@@ -14,9 +14,13 @@ The main objective of this project is to create a practical and user-friendly ap
 The project aims to:
 
       • Create a command-line task management system
+ 
       • Apply object-oriented programming concepts
+
       • Implement file handling using JSON
+ 
       • Practice loops, conditionals, and functions
+ 
       • Develop problem-solving and programming skills
 
 
@@ -53,23 +57,39 @@ The project aims to:
 
 Concept                          Description
 
-Classes and Objects            Used for Task and TaskManager
+Classes and Objects                 Used for Task and TaskManager
 
-Encapsulation                 Methods grouped inside classes
+Encapsulation                       Methods grouped inside classes
 
-Lists                          Store task objects
+Lists                                Store task objects
 
-Loops                           Used in menu display
+Loops                                Used in menu display
 
-Conditional Statements          Used for menu choices
+Conditional Statements               Used for menu choices
 
-Functions/Methods               Separate operations
+Functions/Methods                    Separate operations
 
-File Handling                    Save/load task data
+File Handling                        Save/load task data
 
-JSON                             Permanent data storage
+JSON                                 Permanent data storage
 
-Exception Handling                Prevent program crashes
+Exception Handling                   Prevent program crashes
+
+
+
+   🔗SAMPLE OUTPUT
+
+===== CLI TASK MANAGER =====
+
+1. Add Task
+
+2. View Tasks
+
+3. Complete Task
+
+4. Delete Task
+
+5. Exit
 
 
 
